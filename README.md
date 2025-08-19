@@ -38,3 +38,6 @@ Recalculate the synthetic IV from (AD, C) and compare to T.
 If equal → decrypt with AES-CTR and extract the plaintext.
 
 If unequal → reject (integrity fail
+
+<img width="1024" height="1536" alt="ChatGPT Image Aug 19, 2025, 08_06_19 PM" src="https://github.com/user-attachments/assets/8406d018-cc92-44ce-becb-d012ed231934" />
+
